@@ -7,3 +7,5 @@
 - Intro to CSS
 
 ## Example Change
+
+## Example Second Change
