@@ -5,9 +5,3 @@
 - More on Git
 - Intro to HTML
 - Intro to CSS
-
-## Example Change
-
-## Example Second Change
-
-## Something Different
